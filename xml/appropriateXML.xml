@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" version="2.0" href="style.xsl"?>
+
+<Music>
+  <User id="1">
+    <Name>Brad</Name>
+    <Lname>Pitt</Lname>
+    <Email>bob@abc.com</Email>
+  </User>
+  <User id="2">
+    <Name>sdfs</Name>
+    <Lname>sdfs</Lname>
+    <Email>sdfd@sdfd.com</Email>
+  </User>
+  <User id="3">
+    <Name>Johny</Name>
+    <Lname>Depp</Lname>
+    <Email>johny@abc.com</Email>
+  </User>
+</Music>

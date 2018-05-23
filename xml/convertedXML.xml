@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music>
+  <User id="1">
+    <FirstName>Brad</FirstName>
+    <Lastname>Pitt</Lastname>
+    <Email>bob@abc.com</Email>
+  </User>
+  <User id="2">
+    <FirstName>sdfs</FirstName>
+    <Lastname>sdfs</Lastname>
+    <Email>sdfd@sdfd.com</Email>
+  </User>
+  <User id="3">
+    <FirstName>Johny</FirstName>
+    <Lastname>Depp</Lastname>
+    <Email>johny@abc.com</Email>
+  </User>
+  <User id="4">
+    <FirstName>Aseem</FirstName>
+    <Lastname>Pathkak</Lastname>
+    <Email>bibek@abc.com</Email>
+  </User>
+</Music>
