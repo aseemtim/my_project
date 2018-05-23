@@ -1,0 +1,36 @@
+.container{
+  margin-top: 51px;
+}
+
+.container-left
+{
+    width: 75%;
+    min-height: 596px;
+    float: left;
+    min-height: 596px;
+    border-radius: 15px;
+    border-style: groove;
+    margin-top: 8px;
+    padding: 25px;
+    background-color: #959595;
+}
+
+.container-right{
+  width: 25%;
+  height: auto;
+  float: left; 
+}
+
+.container-form{
+    width: 20%;
+    min-height: 596px;
+    float: left;
+    position: fixed;
+    margin-left: 8px;
+    margin-top: 8px;
+    border-radius: 15px;
+    border-style: groove;
+    padding: 25px;
+    background-color: #959595;
+
+}
