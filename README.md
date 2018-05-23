@@ -1,1 +1,1 @@
-# hello_app
+# my_project
